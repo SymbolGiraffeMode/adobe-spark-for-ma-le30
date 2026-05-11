@@ -1,4 +1,4 @@
-
+Enhance Adobe Spark for macOS with Adobe Spark for macOS custom Addon: background-removal & HDR-editing, the #1 addon. Includes background-removal and HDR-editing for a smoother
 
 
 
